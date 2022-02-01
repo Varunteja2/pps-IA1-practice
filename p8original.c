@@ -71,3 +71,4 @@ int main()
   output(n, c, res);
   return 0;
 }
+l
