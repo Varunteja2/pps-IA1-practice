@@ -25,4 +25,3 @@ int main()
   output(big);
   return 0;
 }
-l
