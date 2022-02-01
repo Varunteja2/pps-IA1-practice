@@ -38,3 +38,4 @@ int add(int n,int a[10])
     output(sum);
     return 0;
   }
+  
